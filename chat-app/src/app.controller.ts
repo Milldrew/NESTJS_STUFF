@@ -13,7 +13,6 @@ export class AppController {
 
   @EventPattern('message')
   handleMessage(data: string) {
-    console.log('hello from chat');
     this.appService.handleMessage(data);
   }
 }
