@@ -1,0 +1,9 @@
+1. Build a websocket chat app.
+
+2. Build an http microservice gateway that can comunicate with the websocket.
+
+3. Add redis to the websocket so that it persits the chat.
+
+4. Add an authentication service.
+
+5. Give the users the ability to create chatrooms and join chatrooms.
